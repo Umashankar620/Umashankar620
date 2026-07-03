@@ -1,19 +1,14 @@
-<!--
-  BEFORE PUBLISHING — replace every <PLACEHOLDER> below with your real handles/links.
-  I did not have your GitHub/LinkedIn usernames or a live RankSetu URL in the source
-  material, so those are marked instead of guessed.
--->
-
 <div align="center">
 
 # Umashankar Kushwaha
 
 ### Backend-focused Software Engineer — polyglot systems, query optimization, statistical pipelines
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/<PLACEHOLDER>)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Umashankar620)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/umashankar-kushwaha-2a06)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:umashankar62069@gmail.com)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/<PLACEHOLDER>)
-[![Resume](https://img.shields.io/badge/Resume-000000?style=flat-square&logo=readdotcv&logoColor=white)](<PLACEHOLDER_RESUME_LINK>)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/u/umashankar062/)
+[![Resume](https://img.shields.io/badge/Resume-000000?style=flat-square&logo=readdotcv&logoColor=white)](https://drive.google.com/drive/folders/1VOXX9Iv24wluMr34IexwZcE0lFHYa_ro?usp=drive_link)
 
 </div>
 
@@ -39,7 +34,6 @@ B.Tech CSE undergraduate at NIT Hamirpur. I build backend and full-stack systems
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
 **Backend**
@@ -59,7 +53,6 @@ B.Tech CSE undergraduate at NIT Hamirpur. I build backend and full-stack systems
 
 **Data & Tools**
 ![Pandas](https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
@@ -89,7 +82,7 @@ A polyglot 3-tier system: Next.js frontend, a Node/Express API gateway, and a se
 **Statistical Forecasting Engine**
 Predicts college closing ranks and classifies options into Dream / Target / Safe tiers using weighted OLS regression, Holt's exponential smoothing, IQR-based outlier filtering, and R²-based confidence scoring.
 
-**Links:** [GitHub](<PLACEHOLDER>) · [Live Demo](<PLACEHOLDER>)
+**Links:** [GitHub](https://github.com/Umashankar620/RankSetu.git) · [Live Demo](https://rank-setu.vercel.app/)
 
 ---
 
@@ -107,13 +100,13 @@ Automate course allocation across compulsory departmental assignments and electi
 - Implemented the core allotment algorithm: auto-assigns compulsory courses by department, then resolves elective requests against seat availability and preference rank.
 - Built authentication and role-based authorization securing admin-only operations (course/student management).
 
-**Links:** [GitHub](<PLACEHOLDER>)
+**Links:** [GitHub](https://github.com/Umashankar620/College-Course-Allotment-Portal.git)
 
 ---
 
 ## DSA & Problem Solving
 
-300+ problems solved on [LeetCode](<PLACEHOLDER>), with continued focus on algorithmic problem-solving alongside system design.
+300+ problems solved on [LeetCode](https://leetcode.com/u/umashankar062/), with continued focus on algorithmic problem-solving alongside system design.
 
 ## Open Source
 
@@ -131,9 +124,9 @@ Automate course allocation across compulsory departmental assignments and electi
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=<PLACEHOLDER>&show_icons=true&theme=default&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=<PLACEHOLDER>&layout=compact&hide_border=true)
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=<PLACEHOLDER>&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Umashankar620&show_icons=true&theme=default&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Umashankar620&layout=compact&hide_border=true)
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Umashankar620&hide_border=true)
 
 </div>
 
@@ -142,7 +135,7 @@ Automate course allocation across compulsory departmental assignments and electi
 ## Contact
 
 - **Email:** umashankar62069@gmail.com
-- **LinkedIn:** <PLACEHOLDER>
-- **GitHub:** <PLACEHOLDER>
-- **LeetCode:** <PLACEHOLDER>
-- **Resume:** <PLACEHOLDER>
+- **LinkedIn:** [umashankar-kushwaha-2a06](https://www.linkedin.com/in/umashankar-kushwaha-2a06)
+- **GitHub:** [Umashankar620](https://github.com/Umashankar620)
+- **LeetCode:** [umashankar062](https://leetcode.com/u/umashankar062/)
+- **Resume:** [View Resume](https://drive.google.com/drive/folders/1VOXX9Iv24wluMr34IexwZcE0lFHYa_ro?usp=drive_link)
