@@ -120,6 +120,7 @@ Automate course allocation across compulsory departmental assignments and electi
 
 ---
 
+<!--
 ## GitHub Stats
 
 <div align="center">
@@ -131,6 +132,8 @@ Automate course allocation across compulsory departmental assignments and electi
 </div>
 
 ---
+-->
+
 
 ## Contact
 
